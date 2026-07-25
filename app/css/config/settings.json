@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "name": "VISION PROD TV",
+    "slogan": "Votre image, notre vision",
+    "language": "fr"
+  },
+
+  "branding": {
+    "primaryColor": "#D4AF37",
+    "backgroundColor": "#111111",
+    "textColor": "#FFFFFF"
+  },
+
+  "program": {
+    "name": "Journal VISION PROD",
+    "category": "Information"
+  },
+
+  "presenter": {
+    "name": "SOMDA FRANCK",
+    "role": "Présentateur / Journaliste"
+  },
+
+  "team": {
+    "director": "SOMDA FRANCK",
+    "camera": "SOMDA FRANCK",
+    "soundLight": "MARCEL OUEDRAOGO"
+  },
+
+  "broadcast": {
+    "live": true,
+    "showClock": true,
+    "showLogo": true,
+    "showTicker": true
+  }
+}
